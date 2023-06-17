@@ -6,5 +6,5 @@ Visually analyze trading signals
 * Kraken
 * Binance
   
-1. Intraday Option Trades
-  * Visually overlying signals on the an underlying candlestick chart with simple indicators with simple trade stats
+## Intraday Option Trades
+> * Visually overlying signals on the an underlying candlestick chart with simple indicators with simple trade stats
